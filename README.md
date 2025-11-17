@@ -1,8 +1,7 @@
 # 🏡 Airbnb Price Analysis – Seattle  
 **Tableau Data Visualization Project**
 
-This project analyzes the **Seattle Airbnb Open Data** using a Tableau dashboard to explore pricing patterns across zipcodes, bedroom counts, and yearly trends.  
-This is **my first Tableau project**, created during my August holiday when I started learning Tableau and data visualization.
+This project analyzes the **Seattle Airbnb Open Data** using a Tableau dashboard to explore pricing patterns across zipcodes, bedroom counts, and yearly trends. This is **my first Tableau project**, created during my August holiday when I started learning Tableau and data visualization.
 
 ---
 
